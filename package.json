@@ -9,8 +9,5 @@
     "url": "http://jmstout.com"
   },
   "main": "viewport-units.js",
-  "peerDependencies": {
-    "react-native": ">= 0.4.4"
-  },
   "keywords": [ "react-component", "react-native", "react native", "react", "viewport", "units", "vw", "vh", "vmin", "vmax", "css", "style", "relative", "responsive", "ios" ]
 }
